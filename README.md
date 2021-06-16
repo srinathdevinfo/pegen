@@ -1,27 +1,94 @@
-# Pwgen
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+<br />
+<p align="center">
+  <a href="https://pegen.vercel.app/">
+    <img src="https://avatars.githubusercontent.com/u/85960940?v=4" alt="Logo" width="80" height="80">
+  </a>
 
-## Development server
+  <h3 align="center">Simple password Generator</h3>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href=https://pegen.vercel.app/">View Demo</a>
+    ·
+    <a href="s">Report Bug</a>
+    ·
+    <a href="#">Request Feature</a>
+  </p>
+</p>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+   
+  </ol>
+</details>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<!-- ABOUT THE PROJECT -->
+## About The Project
+simple password Password Generator build for learning angular
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Built With
+
+
+
+* [angular](https://angular.io/)
+
+
+
+<!-- GETTING STARTED -->
+
+
+### Prerequisites
+
+
+* npm
+  ```sh
+  npm install 
+  ```
+
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/srinathdevinfo/pegen.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Run
+   ```JS
+   ng serve;
+   ```
+
+
+
