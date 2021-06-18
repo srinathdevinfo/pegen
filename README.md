@@ -8,7 +8,7 @@
   <h3 align="center">Simple password Generator</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome Password Generator
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
