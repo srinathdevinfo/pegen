@@ -87,7 +87,7 @@ simple password Password Generator build for learning angular
    ```
 4. Run
    ```JS
-   ng serve;
+   ng serve or npm start
    ```
 
 
